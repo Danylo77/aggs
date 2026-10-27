@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="elevation-release" />
+      <option name="name" value="HERE Internal Artifactory" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/elevation-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shift-virtual" />
+      <option name="name" value="Shift Virtual Artifactory" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/shift-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cme-content-tools-maven-release" />
+      <option name="name" value="HERE Internal Artifactory" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/cme-content-tools-maven-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="had-hdp-release-local" />
+      <option name="name" value="had-hdp-release-local" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/had-hdp-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ndshdlm.releases" />
+      <option name="name" value="ndshdlm.releases" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/ndshdlm.releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/maven_remote_repos" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/nds-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="here-olp-sit" />
+      <option name="name" value="here-olp-sit" />
+      <option name="url" value="https://artifactory.in.here.com/artifactory/here-olp-sit" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="HERE_PLATFORM_REPO" />
+      <option name="name" value="HERE Platform Repository" />
+      <option name="url" value="https://repo.platform.here.com/artifactory/open-location-platform/" />
+    </remote-repository>
+  </component>
+</project>
